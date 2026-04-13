@@ -1,0 +1,190 @@
+{
+  "version": "2026-04-13",
+  "heroImage": "/works/1776062469894-fwrbur-hero.jpg",
+  "cards": [
+    {
+      "id": 1776067578294,
+      "title": "小饼干指环",
+      "desc": "",
+      "img": "/works/1776089420943-osu1xr-card-1776067578294.jpg",
+      "mainImages": [],
+      "amazonLink": "",
+      "rotate": "rotate-0",
+      "translateY": "translate-y-0",
+      "aplusImages": [],
+      "aplusDesktopImages": [],
+      "aplusMobileImages": [],
+      "colorVariants": [
+        {
+          "id": "default",
+          "label": "默认",
+          "img": "/works/1776088445411-7l7fer-project-1776067578294-default-main.jpg",
+          "mainImages": [
+            "/works/1776088445411-7l7fer-project-1776067578294-default-main.jpg",
+            "/works/1776088449732-gix7t0-project-1776067578294-default-main.jpg",
+            "/works/1776088452879-cp39d2-project-1776067578294-default-main.jpg",
+            "/works/1776088455428-chhfex-project-1776067578294-default-main.jpg",
+            "/works/1776088457895-9yv0nf-project-1776067578294-default-main.jpg",
+            "/works/1776088461340-99s365-project-1776067578294-default-main.jpg",
+            "/works/1776088464761-2vlvgl-project-1776067578294-default-main.jpg",
+            "/works/1776092817256-lg7fce-project-1776067578294-default-main.jpg",
+            "/works/1776092824781-lc2uiu-project-1776067578294-default-main.jpg",
+            "/works/1776098410681-q92hbg-project-1776067578294-default-main.jpg"
+          ],
+          "aplusDesktopImages": [
+            "/works/1776091979704-p1qsop-project-1776067578294-default-aplus-desk.jpg",
+            "/works/1776091982612-9q4kzs-project-1776067578294-default-aplus-desk.jpg"
+          ],
+          "aplusMobileImages": [
+            "/works/1776091994790-bjeuqz-project-1776067578294-default-aplus-mobi.jpg",
+            "/works/1776091998003-col4nz-project-1776067578294-default-aplus-mobi.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1776097985820,
+      "title": "超薄指环",
+      "desc": "",
+      "img": "/works/1776098163186-lvclyd-card-1776097985820.jpg",
+      "mainImages": [],
+      "amazonLink": "",
+      "rotate": "rotate-0",
+      "translateY": "translate-y-0",
+      "aplusImages": [],
+      "aplusDesktopImages": [],
+      "aplusMobileImages": [],
+      "colorVariants": [
+        {
+          "id": "default",
+          "label": "默认",
+          "img": "/works/1776097992617-u8gxf0-project-1776097985820-default-main.jpg",
+          "mainImages": [
+            "/works/1776097992617-u8gxf0-project-1776097985820-default-main.jpg",
+            "/works/1776097998534-73p48z-project-1776097985820-default-main.jpg",
+            "/works/1776098001752-w3qlz7-project-1776097985820-default-main.jpg",
+            "/works/1776098011362-yh0vo2-project-1776097985820-default-main.jpg",
+            "/works/1776098014499-l2l8ct-project-1776097985820-default-main.jpg",
+            "/works/1776098017680-yx72ec-project-1776097985820-default-main.jpg",
+            "/works/1776098031357-z5wobt-project-1776097985820-default-main.jpg",
+            "/works/1776098034499-d0sy3v-project-1776097985820-default-main.jpg",
+            "/works/1776098043681-28boce-project-1776097985820-default-main.jpg",
+            "/works/1776098047527-15hvex-project-1776097985820-default-main.jpg"
+          ],
+          "aplusDesktopImages": [
+            "/works/1776098054082-ehrhdt-project-1776097985820-default-aplus-desk.jpg",
+            "/works/1776098057851-eujay9-project-1776097985820-default-aplus-desk.jpg"
+          ],
+          "aplusMobileImages": [
+            "/works/1776098062049-vuymqb-project-1776097985820-default-aplus-mobi.jpg",
+            "/works/1776098066614-ixe8tq-project-1776097985820-default-aplus-mobi.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1776098365077,
+      "title": "皮革指环",
+      "desc": "",
+      "img": "/works/1776098587452-1qu5gh-card-1776098365077.jpg",
+      "mainImages": [],
+      "amazonLink": "",
+      "rotate": "rotate-0",
+      "translateY": "translate-y-0",
+      "aplusImages": [],
+      "aplusDesktopImages": [],
+      "aplusMobileImages": [],
+      "colorVariants": [
+        {
+          "id": "default",
+          "label": "大象灰",
+          "img": "",
+          "mainImages": [
+            "/works/1776098518595-94avkc-project-1776098365077-default-main.jpg",
+            "/works/1776098523658-0ouix4-project-1776098365077-default-main.jpg",
+            "/works/1776098527291-92d299-project-1776098365077-default-main.jpg",
+            "/works/1776098530591-wou3cl-project-1776098365077-default-main.jpg",
+            "/works/1776098534185-hmtboy-project-1776098365077-default-main.jpg",
+            "/works/1776098537567-urwvxi-project-1776098365077-default-main.jpg",
+            "/works/1776098542113-qcl6ln-project-1776098365077-default-main.jpg",
+            "/works/1776098545601-tzybqn-project-1776098365077-default-main.jpg",
+            "/works/1776098548916-ijfhdy-project-1776098365077-default-main.jpg"
+          ],
+          "aplusDesktopImages": [
+            "/works/1776098562475-go17b6-project-1776098365077-default-aplus-desk.jpg",
+            "/works/1776098566354-clj8og-project-1776098365077-default-aplus-desk.jpg"
+          ],
+          "aplusMobileImages": [
+            "/works/1776098571107-yco8uo-project-1776098365077-default-aplus-mobi.jpg",
+            "/works/1776098574210-xu20qn-project-1776098365077-default-aplus-mobi.jpg"
+          ]
+        },
+        {
+          "id": "variant-1776098646429",
+          "label": "玫瑰金",
+          "img": "",
+          "mainImages": [
+            "/works/1776098680229-cff0bw-project-1776098365077-variant-1776098646.jpg",
+            "/works/1776098684217-6zltnq-project-1776098365077-variant-1776098646.jpg",
+            "/works/1776098687416-0fdurs-project-1776098365077-variant-1776098646.jpg",
+            "/works/1776098690026-aj8xuo-project-1776098365077-variant-1776098646.jpg",
+            "/works/1776098692909-fz9zqr-project-1776098365077-variant-1776098646.jpg",
+            "/works/1776098696023-dfihn7-project-1776098365077-variant-1776098646.jpg",
+            "/works/1776098699125-ssy7pt-project-1776098365077-variant-1776098646.jpg",
+            "/works/1776098702488-xq4yfq-project-1776098365077-variant-1776098646.jpg"
+          ],
+          "aplusDesktopImages": [
+            "/works/1776098712807-rvi4mm-project-1776098365077-variant-1776098646.png",
+            "/works/1776098715883-u5okz1-project-1776098365077-variant-1776098646.jpg"
+          ],
+          "aplusMobileImages": [
+            "/works/1776098723555-daitj5-project-1776098365077-variant-1776098646.png",
+            "/works/1776098726395-oldy84-project-1776098365077-variant-1776098646.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1776098867981,
+      "title": "Q-充电宝",
+      "desc": "",
+      "img": "/works/1776099077912-vbuqqj-card-1776098867981.jpg",
+      "mainImages": [],
+      "amazonLink": "",
+      "rotate": "rotate-0",
+      "translateY": "translate-y-0",
+      "aplusImages": [],
+      "aplusDesktopImages": [],
+      "aplusMobileImages": [],
+      "colorVariants": [
+        {
+          "id": "default",
+          "label": "默认",
+          "img": "",
+          "mainImages": [
+            "/works/1776098876959-7ncnue-project-1776098867981-default-main.jpg",
+            "/works/1776098880280-shrtny-project-1776098867981-default-main.jpg",
+            "/works/1776098883051-1ha09q-project-1776098867981-default-main.jpg",
+            "/works/1776098886102-36q8o4-project-1776098867981-default-main.jpg",
+            "/works/1776098889055-vsp91h-project-1776098867981-default-main.jpg",
+            "/works/1776098893616-f9fung-project-1776098867981-default-main.jpg",
+            "/works/1776098897382-2to0j3-project-1776098867981-default-main.jpg",
+            "/works/1776098900522-55rztt-project-1776098867981-default-main.jpg"
+          ],
+          "aplusDesktopImages": [
+            "/works/1776098906396-5jalqe-project-1776098867981-default-aplus-desk.jpg",
+            "/works/1776098909273-isl6w6-project-1776098867981-default-aplus-desk.jpg",
+            "/works/1776098914904-509w0h-project-1776098867981-default-aplus-desk.jpg",
+            "/works/1776098918191-8ust49-project-1776098867981-default-aplus-desk.jpg"
+          ],
+          "aplusMobileImages": [
+            "/works/1776098922773-syqbr3-project-1776098867981-default-aplus-mobi.jpg",
+            "/works/1776098925939-8sghqi-project-1776098867981-default-aplus-mobi.jpg",
+            "/works/1776098928617-2pt0qo-project-1776098867981-default-aplus-mobi.jpg",
+            "/works/1776098931657-c8rpzc-project-1776098867981-default-aplus-mobi.jpg"
+          ]
+        }
+      ]
+    }
+  ]
+}
