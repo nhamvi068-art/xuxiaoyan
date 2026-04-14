@@ -1,14 +1,14 @@
 {
-  "version": "2026-04-13",
+  "version": "2026-04-14",
   "heroImage": "/works/1776062469894-fwrbur-hero.jpg",
   "cards": [
     {
       "id": 1776067578294,
       "title": "小饼干指环",
       "desc": "",
-      "img": "/works/1776089420943-osu1xr-card-1776067578294.jpg",
+      "img": "/works/1776159737650-ydskds-card-1776067578294.jpg",
       "mainImages": [],
-      "amazonLink": "",
+      "amazonLink": "https://www.amazon.com/andobil-All-New-Magnetic-Comfortable-Accessories/dp/B0FPC9FB6Y?ref_=ast_sto_dp&th=1",
       "rotate": "rotate-0",
       "translateY": "translate-y-0",
       "aplusImages": [],
@@ -48,7 +48,7 @@
       "desc": "",
       "img": "/works/1776098163186-lvclyd-card-1776097985820.jpg",
       "mainImages": [],
-      "amazonLink": "",
+      "amazonLink": "https://www.amazon.com/andobil-Ultra-Thin-Magnetic-Kickstand-Accessories/dp/B0FZ9LZQMZ/ref=sr_1_1?crid=3RG1E6BFAXQN5&dib=eyJ2IjoiMSJ9.YQnuetZy6VAkW4ceTarqOrx5tviCb7k4wQjzqlcD08okO-eWKNXtuQ16KwkMPFhauPfjQe1iEvt0ahBmwiNATfowLNZuizsHNdhZb7FYegHXy4wCqNPQ9d4MQ9qSZVF3WAj0rKuo9HZaiUM8m3w13EpvHRS_VcpCpU4ncZowUoDLdD5lCE50nmFjEKr75FZsi9B5xxN8EvbB5IIRhRsyGpDG00zzkichnyfePyLlJpI._jcaFYXD-j0tIity6Rytikx4SlZTGSkZGLwZYTPI6Ls&dib_tag=se&keywords=andobil&qid=1776159419&sprefix=andobil%2Caps%2C331&sr=8-1&th=1",
       "rotate": "rotate-0",
       "translateY": "translate-y-0",
       "aplusImages": [],
@@ -88,7 +88,7 @@
       "desc": "",
       "img": "/works/1776098587452-1qu5gh-card-1776098365077.jpg",
       "mainImages": [],
-      "amazonLink": "",
+      "amazonLink": "https://www.amazon.com/andobil-Unrivaled-Stability-Compatible-Accessories/dp/B0D128752D/ref=sr_1_5?crid=3RG1E6BFAXQN5&dib=eyJ2IjoiMSJ9.YQnuetZy6VAkW4ceTarqOrx5tviCb7k4wQjzqlcD08okO-eWKNXtuQ16KwkMPFhauPfjQe1iEvt0ahBmwiNATfowLNZuizsHNdhZb7FYegHXy4wCqNPQ9d4MQ9qSZVF3WAj0rKuo9HZaiUM8m3w13EpvHRS_VcpCpU4ncZowUoDLdD5lCE50nmFjEKr75FZsi9B5xxN8EvbB5IIRhRsyGpDG00zzkichnyfePyLlJpI._jcaFYXD-j0tIity6Rytikx4SlZTGSkZGLwZYTPI6Ls&dib_tag=se&keywords=andobil&qid=1776159444&sprefix=andobil%2Caps%2C331&sr=8-5&th=1",
       "rotate": "rotate-0",
       "translateY": "translate-y-0",
       "aplusImages": [],
@@ -150,7 +150,7 @@
       "desc": "",
       "img": "/works/1776099077912-vbuqqj-card-1776098867981.jpg",
       "mainImages": [],
-      "amazonLink": "",
+      "amazonLink": "https://www.amazon.com/dp/B0FTFP2Y18?th=1",
       "rotate": "rotate-0",
       "translateY": "translate-y-0",
       "aplusImages": [],
@@ -183,6 +183,63 @@
             "/works/1776098928617-2pt0qo-project-1776098867981-default-aplus-mobi.jpg",
             "/works/1776098931657-c8rpzc-project-1776098867981-default-aplus-mobi.jpg"
           ]
+        }
+      ]
+    },
+    {
+      "id": 1776155841156,
+      "title": "AI生成图片",
+      "desc": "",
+      "img": "/works/1776156178781-53qi43-card-1776155841156.jpg",
+      "mainImages": [],
+      "amazonLink": "https://www.amazon.com/stores/page/9FC3DFE9-F058-4649-8AF1-A5D6F5CB84B9?ingress=2&lp_context_asin=B0FZ9LZQMZ&visitId=400f71c8-c999-4a12-9a8b-aecf81516c83&store_ref=bl_ast_dp_brandlogo_sto&ref_=ast_bln",
+      "rotate": "rotate-0",
+      "translateY": "translate-y-0",
+      "aplusImages": [],
+      "aplusDesktopImages": [],
+      "aplusMobileImages": [],
+      "colorVariants": [
+        {
+          "id": "default",
+          "label": "默认",
+          "img": "/works/1776156680573-3in6qz-project-1776155841156-default-main.jpg",
+          "mainImages": [
+            "/works/1776159142295-etwjse-project-1776155841156-default-main.jpg",
+            "/works/1776159150441-j1s80r-project-1776155841156-default-main.jpg",
+            "/works/1776159153763-0rwqza-project-1776155841156-default-main.jpg",
+            "/works/1776159156460-fyk6ub-project-1776155841156-default-main.jpg",
+            "/works/1776159161793-bk8bg3-project-1776155841156-default-main.jpg",
+            "/works/1776159166110-t6bmvd-project-1776155841156-default-main.jpg",
+            "/works/1776159173920-zf4lrr-project-1776155841156-default-main.jpg",
+            "/works/1776159193004-u8vr87-project-1776155841156-default-main.jpg",
+            "/works/1776159257740-3p8oek-project-1776155841156-default-main.jpg",
+            "/works/1776159261798-wxteru-project-1776155841156-default-main.jpg",
+            "/works/1776159264812-aejgf6-project-1776155841156-default-main.jpg",
+            "/works/1776159268242-tjl7d7-project-1776155841156-default-main.jpg",
+            "/works/1776159271127-68c1gj-project-1776155841156-default-main.jpg",
+            "/works/1776159273683-ct6vv5-project-1776155841156-default-main.jpg",
+            "/works/1776159276125-pdrvfx-project-1776155841156-default-main.jpg",
+            "/works/1776159279142-p4vnym-project-1776155841156-default-main.jpg",
+            "/works/1776159281936-000rfp-project-1776155841156-default-main.jpg",
+            "/works/1776159284701-myyot5-project-1776155841156-default-main.jpg",
+            "/works/1776159287420-yhudaz-project-1776155841156-default-main.jpg",
+            "/works/1776159289910-81iwhs-project-1776155841156-default-main.jpg",
+            "/works/1776159294003-b5lhbs-project-1776155841156-default-main.jpg",
+            "/works/1776159300169-58i609-project-1776155841156-default-main.jpg",
+            "/works/1776159303371-xmb4ui-project-1776155841156-default-main.jpg",
+            "/works/1776159306308-mm66s5-project-1776155841156-default-main.jpg",
+            "/works/1776159309622-6kwqz1-project-1776155841156-default-main.jpg",
+            "/works/1776159312932-aidemq-project-1776155841156-default-main.jpg",
+            "/works/1776159315877-4oo80a-project-1776155841156-default-main.jpg",
+            "/works/1776159319466-xe86fn-project-1776155841156-default-main.jpg",
+            "/works/1776159322584-knytya-project-1776155841156-default-main.jpg",
+            "/works/1776159325587-9w39cp-project-1776155841156-default-main.jpg",
+            "/works/1776159329195-md54or-project-1776155841156-default-main.jpg",
+            "/works/1776159332075-55u77j-project-1776155841156-default-main.jpg",
+            "/works/1776159334849-ifqt9b-project-1776155841156-default-main.jpg"
+          ],
+          "aplusDesktopImages": [],
+          "aplusMobileImages": []
         }
       ]
     }
