@@ -723,6 +723,16 @@ function ProjectDetailView({ project, editMode, onUpdate, onBack, heroImage, onA
     return () => window.removeEventListener('keydown', handleKeyDown);
   }, [lightboxOpen]);
 
+  // 自动同步 amazonLink 到父组件（编辑模式下，链接变化时立即保存）
+  const prevAmazonLink = useRef(amazonLink);
+  useEffect(() => {
+    if (!editMode) return;
+    if (amazonLink !== prevAmazonLink.current) {
+      prevAmazonLink.current = amazonLink;
+      onUpdate({ ...project, amazonLink, title, desc, colorVariants });
+    }
+  }, [amazonLink, editMode]);
+
   // 打开预览
   const openPreview = (type, idx) => {
     setPreviewType(type);
